@@ -21,7 +21,7 @@ st.markdown(
 
 # Import model and data
 st.title("The Laptop Economist 💻")
-pipe = pickle.load(open("pipe.pkl", "rb"))
+pipe = pickle.load(open("App/pipe.pkl", "rb"))
 df = pd.read_parquet('df.parquet', engine='pyarrow')
 
 # Define placeholders
