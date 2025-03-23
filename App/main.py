@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 
-st.set_page_config(page_title="The Laptop Economist", page_icon="💻", layout="wide")
+st.set_page_config(page_title="Laptop Price Predictor", page_icon="💻", layout="wide")
 
 st.markdown(
     """
@@ -20,8 +20,8 @@ st.markdown(
 )
 
 # Import model and data
-st.title("The Laptop Economist 💻")
-pipe = pickle.load(open("App/pipe.pkl", "rb"))
+st.title("Laptop Price Predictor 💻")
+pipe = pickle.load(open("pipe.pkl", "rb"))
 df = pd.read_parquet('df.parquet', engine='pyarrow')
 
 # Define placeholders
