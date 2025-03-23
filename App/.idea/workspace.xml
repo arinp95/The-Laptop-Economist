@@ -24,21 +24,21 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "arinp95"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arinp95&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Namit-2003/Laptop-Price-Predictor-Machine-Learning-Project.git",
-    "accountId": "4cfdb21f-3ae7-433a-9371-c0fd243dbade"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arinp95/Laptop-Price-Predictor&quot;,
+    &quot;accountId&quot;: &quot;4cfdb21f-3ae7-433a-9371-c0fd243dbade&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -52,7 +52,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Programming/Machine Learning/Projects/Laptop Price Predictor/App&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -109,7 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1723979052853</updated>
       <workItem from="1723979057251" duration="423000" />
-      <workItem from="1723979802938" duration="1167000" />
+      <workItem from="1723979802938" duration="1928000" />
+      <workItem from="1724006065899" duration="1762000" />
+      <workItem from="1724017224679" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="V2 --coredump frontend and model accuracy improvement">
       <option name="closed" value="true" />
@@ -128,16 +130,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V2 --coredump frontend and model accuracy improvement" />
     <option name="LAST_COMMIT_MESSAGE" value="V2 --coredump frontend and model accuracy improvement" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
